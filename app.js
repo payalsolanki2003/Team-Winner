@@ -18,7 +18,7 @@ let arr = [
 },
 
 { 
-    name : "Puchhi",
+    name : "Pragya",
     Primary:"rgb(255,19,94)",
     Secondary: "rgb(195,60,97)"
 },
